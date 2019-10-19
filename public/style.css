@@ -1,0 +1,14 @@
+img{
+-webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+transition: all 1s ease-in-out;
+}
+
+img:hover {
+-webkit-transform: scale(5.9);
+-moz-transform: scale(5.9);
+-o-transform: scale(5.9);
+-ms-transform: scale(5.9);
+transform: scale(5.9);
+}
